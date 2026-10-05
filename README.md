@@ -14,4 +14,3 @@ Logs your most-played Spotify song each day next to a 1-5 mood score.
 3. Run `supabase/schema.sql` in the Supabase SQL editor.
 4. `npm run dev`, then open http://127.0.0.1:3000 (use 127.0.0.1, not localhost).
 
-See the chat instructions for deployment.
