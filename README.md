@@ -1,4 +1,4 @@
-# Heavy Rotation
+# Song Tracker
 
 Logs your most-played Spotify song each day next to a 1-5 mood score.
 
